@@ -1,5 +1,7 @@
 # australian-weather
-Created by Rhian Davies
+Created by Rhian Davies aged 30 1/2
+
+
 A simple data science project exploring the weather in Australia. Used in our "Git for Me" training course.
 
 Mirrored from https://gitlab.com/jumpingrivers-public/australian-weather to https://github.com/jumpingrivers/australian-weather, edit in GitLab only.
